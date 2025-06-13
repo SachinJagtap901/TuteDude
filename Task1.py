@@ -1,7 +1,7 @@
 n1 = input("enter first number: ")
 n2 = input("enter second number: ")
-n1 = int(n1)
-n2 = int(n2)
+n1 = float(n1)
+n2 = float(n2)
 sum = n1 + n2
 sub = n1 - n2
 mult = n1 * n2
